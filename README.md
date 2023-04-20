@@ -19,6 +19,9 @@
 <p align="center" style="margin: 0">
 <img src="https://media4.giphy.com/media/fYBttYPejVFv1tcJbz/giphy.gif?cid=ecf05e47lg6j96eyhk4nmfrn0g3140rthsxqr8x2i2hzcklj&rid=giphy.gif&ct=s" width="30"> 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚋𝚢 𝚎𝚖𝚊𝚒𝚕𝚒𝚗𝚐 <a href="mailto:jan.chrzan@icloud.com">my address</a>
 </p>
+<p align="center" style="margin: 0">
+<img src="https://media3.giphy.com/media/POGZSdekmTv4MhuYaR/giphy.gif?cid=ecf05e47klrsm3rjouw6qltzw4974hf1io97bie4dwjlg6cw&rid=giphy.gif&ct=s" width="30"> 𝙸𝚏 𝚢𝚘𝚞'𝚛𝚎 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝚖𝚢 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚜𝚔𝚒𝚕𝚕𝚜, 𝚙𝚕𝚎𝚊𝚜𝚎 𝚌𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 <a href="./asset/doc/CV_Jan_Chrzan.pdf">my resume</a>
+</p>
 </div>
 
 <p align="center">
